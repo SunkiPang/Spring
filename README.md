@@ -1,6 +1,6 @@
 # Spring
 
 
-![result1](./result/result1.png)
+![result1](./result/result1.PNG)
 
-![result2](./result/result2.png)
+![result2](./result/result2.PNG)
